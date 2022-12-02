@@ -12,5 +12,9 @@ After installing an adobe creative cloud app sometimes, We've to face a problem 
 <img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%201.png"/>
 
 <h2><b>Step 2</b></h2>
-<b>Download</b> the <i>AdobeIconSet.dll</i> and <b>copy</b> it where you want.
-<img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%201.png"/>
+<b>Right click</b> on the folder that you're going to change and <b>click</b> on the <i>Properties</i>.
+<img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%202.png"/>
+
+<h2><b>Step 3</b></h2>
+<b>Click</b> on <i>Customize</i> tab and <b>click</b> on the <i>Change Icon</i> button.
+<img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%203.png"/>
