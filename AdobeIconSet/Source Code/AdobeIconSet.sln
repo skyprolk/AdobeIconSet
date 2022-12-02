@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdobeIconSet", "AdobeIconSet\AdobeIconSet.csproj", "{B9FFF4DA-F957-4FEA-B17D-99EE968A24A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FFF4DA-F957-4FEA-B17D-99EE968A24A6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FFF4DA-F957-4FEA-B17D-99EE968A24A6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{B9FFF4DA-F957-4FEA-B17D-99EE968A24A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FFF4DA-F957-4FEA-B17D-99EE968A24A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4725380F-C50A-49C8-A4AC-792D6E50BAE9}
+	EndGlobalSection
+EndGlobal
