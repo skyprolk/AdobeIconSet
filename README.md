@@ -18,3 +18,23 @@ After installing an adobe creative cloud app sometimes, We've to face a problem 
 <h2><b>Step 3</b></h2>
 <b>Click</b> on <i>Customize</i> tab and <b>click</b> on the <i>Change Icon</i> button.
 <img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%203.png"/>
+
+<h2><b>Step 4</b></h2>
+<b>Click</b> on <i>Browse</i> button.
+<img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%204.png"/>
+
+<h2><b>Step 5</b></h2>
+<b>Browse & Choose</b> the copied <i>AdobeIconSet.dll</i> file. Then <b>Click</b> on the <i>Open</i> button.
+<img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%205.png"/>
+
+<h2><b>Step 6</b></h2>
+<b>Select</b> the on the adobe icon what you want and <b>Click</b> on the <i>OK</i> button.
+<img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%206.png"/>
+
+<h2><b>Step 7</b></h2>
+Now you can <b>Click</b> the on the <b>OK</b> button and Save your changes.
+<img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%207.png"/>
+
+<h2><b>Step 8</b></h2>
+Finally you'll see the folder has been changed to icon that you selected
+<img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%207.png"/>
