@@ -36,5 +36,5 @@ Now you can <b>Click</b> the on the <b>OK</b> button and Save your changes.
 <img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%207.png"/>
 
 <h2><b>Step 8</b></h2>
-Finally you'll see the folder has changed to icon that you selected
+Finally you'll see the folder has changed to icon that you selected.
 <img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%207.png"/>
