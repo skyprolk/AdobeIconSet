@@ -28,7 +28,7 @@ After installing an adobe creative cloud app sometimes, We've to face a problem 
 <img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%205.png"/>
 
 <h2><b>Step 6</b></h2>
-<b>Select</b> the on the adobe icon what you want and <b>Click</b> on the <i>OK</i> button.
+<b>Select</b> the on the adobe icon that you want then <b>Click</b> on the <i>OK</i> button.
 <img src="https://github.com/skyprolk/AdobeIconSet/blob/main/AdobeIconSet/Tutorial/Step%206.png"/>
 
 <h2><b>Step 7</b></h2>
