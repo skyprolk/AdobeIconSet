@@ -10,3 +10,14 @@ E:\AdobeIconSet\AdobeIconSet\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSe
 E:\AdobeIconSet\AdobeIconSet\AdobeIconSet\obj\Release\net6.0-windows\ref\AdobeIconSet.dll
 E:\AdobeIconSet\AdobeIconSet\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.pdb
 E:\AdobeIconSet\AdobeIconSet\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.csproj.AssemblyReference.cache
+E:\AdobeIconSet\Source Code\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdobeIconSet\Source Code\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.AssemblyInfoInputs.cache
+E:\AdobeIconSet\Source Code\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.AssemblyInfo.cs
+E:\AdobeIconSet\Source Code\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.csproj.CoreCompileInputs.cache
+E:\AdobeIconSet\Source Code\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.dll
+E:\AdobeIconSet\Source Code\AdobeIconSet\obj\Release\net6.0-windows\ref\AdobeIconSet.dll
+E:\AdobeIconSet\Source Code\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.pdb
+E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\AdobeIconSet.deps.json
+E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\AdobeIconSet.dll
+E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\ref\AdobeIconSet.dll
+E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\AdobeIconSet.pdb

@@ -1,12 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Win32Resource>E:\AdobeIconSet\AdobeIconSet\AdobeIconSet\Resource.res</Win32Resource>
+    <Win32Resource>E:\AdobeIconSet\Source Code\AdobeIconSet\Resource.res</Win32Resource>
     <Authors>KNOiT</Authors>
     <Company>Sky Production</Company>
+	<Version>1.1</Version>
   </PropertyGroup>
 
 </Project>

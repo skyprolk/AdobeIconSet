@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdobeIconSet</id>
+    <version>1.1.0</version>
+    <authors>KNOiT</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\AdobeIconSet.dll" target="lib\net6.0-windows7.0\AdobeIconSet.dll" />
+  </files>
+</package>

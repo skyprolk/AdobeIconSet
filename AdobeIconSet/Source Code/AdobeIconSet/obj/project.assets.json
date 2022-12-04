@@ -11,13 +11,13 @@
     "C:\\Users\\Dell\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "E:\\AdobeIconSet\\AdobeIconSet\\AdobeIconSet\\AdobeIconSet.csproj",
+      "projectUniqueName": "E:\\AdobeIconSet\\Source Code\\AdobeIconSet\\AdobeIconSet.csproj",
       "projectName": "AdobeIconSet",
-      "projectPath": "E:\\AdobeIconSet\\AdobeIconSet\\AdobeIconSet\\AdobeIconSet.csproj",
+      "projectPath": "E:\\AdobeIconSet\\Source Code\\AdobeIconSet\\AdobeIconSet.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "E:\\AdobeIconSet\\AdobeIconSet\\AdobeIconSet\\obj\\",
+      "outputPath": "E:\\AdobeIconSet\\Source Code\\AdobeIconSet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
