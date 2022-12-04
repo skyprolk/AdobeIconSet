@@ -6,6 +6,10 @@ After installing an adobe creative cloud app sometimes, We've to face a problem 
 **_Tested on :_**
 - _Microsoft Windows 11_
 
+**_Requirements :_**
+- _.Net Framework 6 or above_
+- _Windows 7/8/9/10 or 11 OS_
+
 # How-to
 ## **Step 1**
 **Download** the _AdobeIconSet.dll_ and **copy** it where you want.
