@@ -21,3 +21,4 @@ E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\AdobeIconSet
 E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\AdobeIconSet.dll
 E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\ref\AdobeIconSet.dll
 E:\AdobeIconSet\Source Code\AdobeIconSet\bin\Release\net6.0-windows\AdobeIconSet.pdb
+E:\AdobeIconSet\Source Code\AdobeIconSet\obj\Release\net6.0-windows\AdobeIconSet.csproj.AssemblyReference.cache
